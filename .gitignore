@@ -1,0 +1,11 @@
+# ModelSim
+work/
+*.wlf
+transcript
+*.mti
+*.mpf
+modelsim.ini
+
+# Copias de seguridad del editor
+*.bak
+*.vhd.bak
